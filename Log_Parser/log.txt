@@ -1,0 +1,9 @@
+event_1 100
+event_2 300
+event_3 2500
+event_4 50
+event_5 75
+event_6 345
+event_7 670
+event_8 1100
+event_9 400

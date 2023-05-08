@@ -1,4 +1,4 @@
-The scope of the project is to build a TCP Chat server which enables clients to communicate.
+TCP Chat server which enables clients to communicate.
 
 **List of commands:**<br>
 _'/nick <name>'_ -- Set your name. <br>

@@ -23,5 +23,5 @@ func main() {
 	prices := []int{7, 1, 5, 3, 6, 4}
 
 	profit := maxProfit(prices)
-	fmt.Println("Max profit: ", profit)
+	fmt.Println("Max profit: ", profit) //5
 }

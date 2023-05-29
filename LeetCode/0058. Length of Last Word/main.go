@@ -22,5 +22,5 @@ func main() {
 	stringInput := "   fly me   to   the moon  "
 
 	wordLength := lengthOfLastWord(stringInput)
-	fmt.Println("Length of the last word: ", wordLength)
+	fmt.Println("Length of the last word: ", wordLength) // Length of the last word:  4
 }

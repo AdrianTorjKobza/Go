@@ -13,6 +13,7 @@ func missingNumber(nums []int) int {
 		for _, value := range nums {
 			if value == i {
 				exist = true
+				break
 			}
 		}
 

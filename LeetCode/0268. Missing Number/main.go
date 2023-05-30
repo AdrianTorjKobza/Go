@@ -18,6 +18,7 @@ func missingNumber(nums []int) int {
 
 		if !exist {
 			result = i
+			break
 		}
 	}
 

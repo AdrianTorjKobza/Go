@@ -5,10 +5,7 @@ import (
 )
 
 func maxArea(height []int) int {
-	maxArea := 0
-	area := 0
-	minHeight := 0
-	left := 0
+	maxArea, area, minHeight, left := 0, 0, 0, 0
 	right := len(height) - 1
 
 	for left < right {
